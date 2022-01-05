@@ -1,16 +1,12 @@
 # CIS2485
-A repo of all the code written for my **C++ Science & Engineering (CIS-2485) Summer 2020** class at the College of DuPage. Kept as an archive. The assignment sheets and instructions for all code is not shared, only sample code answers. 
+A repo of all the code written for my **C++ Science & Engineering (CIS-2485) Summer 2020** class at the College of DuPage. Kept as an archive. The assignment sheets and instructions for all code is not shared, only sample code answers.  
 
 ## Modifications
 - no issues will be resolved
 - no pull requests will be merged
 - no comments on files will be answered.
 
-## Join my discord server:
-https://dsc.gg/antaresnetwork
-
 ## License
-
 - Refer to the license file
 
 ## Important Note:
